@@ -1,6 +1,6 @@
 # i3-gaps-Dotfiles
 My personal dotfiles 
-'git clone https://github.com/NightMare646/i3-gaps-Dotfiles.git && cd i3-gaps-Dotfiles'
+`git clone https://github.com/NightMare646/i3-gaps-Dotfiles.git && cd i3-gaps-Dotfiles`
 `cp wallpaper.jpg ~/Images`
 `cp i3 ~/.config/`
 `cp i3blocks ~/.config`
