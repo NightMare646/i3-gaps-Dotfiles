@@ -11,7 +11,9 @@ My personal dotfiles
 
 `cp neofetch ~/.config`
 
-use `yay -S i3-gaps picom neofetch i3blocks feh` for dependcies
+`cp alacritty ~/.config`
+
+use `yay -S i3-gaps picom neofetch i3blocks feh alacritty` for dependcies
 
 then put this in the i3 config file `exec feh --bg-scale $HOME/Images/wallpaper.jpg` then enjoy
 
