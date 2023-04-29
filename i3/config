@@ -49,7 +49,6 @@ for_window [class=".*"] border pixel 3
 gaps inner 10
 gaps outer 5
 
-exec feh --bg-scale /usr/share/backgrounds/budgie
 exec_always --no-startup-id picom --config ~/.config/i3/picom.conf
 # Font for window titles. Will also be used by the bar unless a different font
 # is used in the bar {} block below.
